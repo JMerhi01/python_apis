@@ -45,9 +45,10 @@ Verb - What do you want to do
 
 URL - Where am I sending the request
 
-Version - 
+Version - Manage the version, any changes to the API
 
 ![request example.PNG](request%20example.PNG)
+
 Verb = Get
 URL = http://example.com 1.1
 Header = Content-Type : application/json
